@@ -1,2 +1,2 @@
 console.log('product model, thats okay');
---fixing
+cosole.log('--fixing');
