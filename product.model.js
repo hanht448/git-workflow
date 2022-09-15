@@ -1,1 +1,2 @@
-console.log('product model, thats okay')t;
+console.log('product model, thats okay');
+--fixing
